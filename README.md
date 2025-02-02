@@ -12,5 +12,3 @@ This project is a real-time medical device monitoring system that collects, proc
 1️⃣ Clone the Repository
 ```bash git clone https://github.com/harabhuvan001/iot-medical-device-integration.git cd iot-medical-device-integration #
 
-
-![image](https://github.com/user-attachments/assets/4771552c-e200-490c-b64a-3868f00ac7d8)
